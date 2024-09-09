@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "password": "hashedpassword123",
+      "tasks": [
+        {
+          "taskId": "t1",
+          "title": "Complete Next.js tutorial",
+          "completed": false
+        },
+        {
+          "taskId": "t2",
+          "title": "Read about JSON databases",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "d288",
+      "email": "edhamel@outlook.fr",
+      "password": "1234125",
+      "tasks": []
+    },
+    {
+      "id": "d567",
+      "email": "edadasgfas@gmail.com",
+      "password": "9001245125",
+      "tasks": []
+    },
+    {
+      "id": "2b2c",
+      "email": "test2@exemple.com",
+      "password": "123456",
+      "tasks": [
+        {
+          "taskId": "1725578125884",
+          "title": "aaa",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "1b6c",
+      "email": "test3@gmail.com",
+      "password": "123456",
+      "tasks": [
+        {
+          "taskId": "1725888548805",
+          "title": "AAA",
+          "completed": true
+        },
+        {
+          "taskId": "1725889299705",
+          "title": "Faire le Labo",
+          "completed": true
+        },
+        {
+          "taskId": "1725890810284",
+          "title": "aaaa",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "c084",
+      "email": "Admin@gmail.com",
+      "password": "123456",
+      "tasks": []
+    },
+    {
+      "id": "5a0a",
+      "email": "Admin@gmail.com",
+      "password": "123456",
+      "tasks": []
+    },
+    {
+      "id": "60ce",
+      "email": "nat@gmail.com",
+      "password": "123456",
+      "tasks": []
+    },
+    {
+      "id": "fcda",
+      "email": "edou@gmail.com",
+      "password": "123456",
+      "tasks": []
+    },
+    {
+      "id": "8e07",
+      "email": "willi@gmail.com",
+      "password": "123456",
+      "tasks": []
+    },
+    {
+      "id": "41b9",
+      "email": "test4@gmail.com",
+      "password": "123456",
+      "tasks": [
+        {
+          "taskId": "1725890973147",
+          "title": "aaaa2qd",
+          "completed": true
+        },
+        {
+          "taskId": "1725890976715",
+          "title": "arehtd",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "9a67",
+      "email": "dad@gmail.com",
+      "password": "123456",
+      "tasks": []
+    },
+    {
+      "id": "120b",
+      "email": "cc@exemple.com",
+      "password": "123456",
+      "tasks": []
+    }
+  ]
+}
